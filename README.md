@@ -1,90 +1,64 @@
-👋 Hi, I'm Hasini
+# 👋 Hi, I'm **Hasini**
 
-🎓 B.Tech CSE (AI & ML) student
-💡 Passionate about AI, Machine Learning, Image Processing, and Software Development
-🔍 Exploring AI & ML
-📌 Actively building projects to strengthen skills and improve problem-solving
+🎓 **B.Tech CSE (AI & ML)** student  
+💡 Learning and exploring **AI AND ML**  
+📌 Building academic and personal projects to improve problem-solving and technical skills  
 
-🚀 Skills & Technologies
-==> Languages
+---
 
-Python
+## 🔧 Skills
 
-C
+### **Programming Languages**
+- Python  
+- C  
+- Java  
 
-Java
+### **Technologies & Areas**
+- Machine Learning (K-Means, CNN)  
+- Digital Image Processing  
+- Data Structures & Algorithms  
+- GUI Development (Tkinter)  
+- Object-Oriented Programming  
+- Version Control (Git & GitHub)  
 
-==> Core Areas
+---
 
-Machine Learning (K-Means, CNNs)
+## 🚀 Projects
 
-Digital Image Processing
+### **📌 Image Compression using K-Means Clustering**
+Color-quantization based image compression in Python with adjustable *k* values and original-vs-compressed visualization.
 
-Data Structures & Algorithms
+### **📌 Image Recognition System**
+CNN-based system for real-time object classification with structured metadata handling.
 
-GUI Development (Tkinter)
+### **📌 Online Voting System (C)**
+Menu-driven voting system using linked lists + hash tables for secure registration, duplicate prevention, and result tracking.
 
-Object-Oriented Programming
+### **📌 Maze Game (Tkinter)**
+Interactive maze generator with mouse navigation, move validation, and dynamic GUI rendering.
 
-Git & GitHub
+### **📌 Tic-Tac-Toe (C)**
+Console-based game with win/tie detection, input validation, and structured gameplay logic.
 
-==> Tools & Libraries
+---
 
-NumPy, scikit-image, scikit-learn
+## 🌱 Currently Learning
+- Deep Learning fundamentals  
+- AI planning and probabilistic reasoning  
+- IoT basics  
+- Python libraries for ML and image processing  
 
-OpenCV
+---
 
-Matplotlib
+## 📫 Connect With Me
+- **GitHub:** [hasini-09](https://github.com/hasini-09)  
+- **LinkedIn:** [linkedin.com/in/hasini09](https://www.linkedin.com/in/hasini09/)  
+- **Email:** *velpulahasini2005@gmail.com*  
 
-Tkinter
+---
 
-Mediapipe (experience from CloudSketch project)
-
-🔧 Projects
-📌 Image Compression using K-Means Clustering
-
-Python-based image compression tool performing colour quantisation with adjustable k-values, preprocessing, and original vs compressed visualisation.
-
-📌 Image Recognition System
-
-CNN-based real-time object detection & classification with dynamic metadata management using linked lists.
-
-📌 Online Voting System
-
-C-based secure voting application using linked lists + hash tables, supporting registration, duplicate prevention, and real-time result tracking.
-
-📌 Maze Game (Python + Tkinter)
-
-Interactive dynamic maze generator with mouse-based navigation, valid-move detection, and grid logic.
-
-📌 Tic-Tac-Toe (C)
-
-Console-based turn-by-turn game with win/tie logic and input validation.
-
-🌱 Currently Learning
-
-Deep Learning & CNN model optimisation
-
-Image compression techniques
-
-AI planning & probabilistic reasoning
-
-IoT fundamentals
-
-📫 Connect With Me
-
-GitHub: github.com/hasini-09
-
-LinkedIn: [linkedin](https://www.linkedin.com/in/hasini09/)
-
-Email: velpulahasini2005@gmail.com
-
-⭐ Interests
-
-Building smart, interactive systems
-
-Working on innovative AI/ML projects
-
-Exploring new technologies and hands-on development
-
-Creating clear, clean, understandable code
+## ⭐ Interests
+- Artificial Intelligence  
+- Creative coding projects  
+- Exploring new technologies  
+- Building interactive tools and apps  
